@@ -26,3 +26,17 @@ cd smart-mart-management
 Run the application:
 python main.py
 
+Usage:
+
+Run the app and login as admin or cashier.
+
+Admin can manage cashiers and product categories.
+
+Cashiers can add products to cart and process payments.
+
+Testing:
+Basic test functions are included to verify cashier existence and login validation.
+
+Run tests with:
+
+pytest
