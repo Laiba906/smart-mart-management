@@ -31,6 +31,8 @@ def append_file(filename, line):
     with open(filename, 'a') as f:
         f.write(f"{line}\n")
 
+#--------testing-------
+
 def cashier_exists(username, filename=CASHIERS_FILE):
     cashiers = read_file(filename)
     for line in cashiers:
