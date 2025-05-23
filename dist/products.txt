@@ -1,0 +1,4 @@
+Cosmetic:foundations, lipstick, blushon, concealor, mascara, liner, eyeshadow, lipgloss, eyebrow pencil, nail paint
+
+Fruits:apple, banana, orange, mango, grapes, pineapple, papaya, watermelon, kiwi, strawberry
+Vegetables:carrot, potato, tomato, onion, garlic, spinach, cabbage, cauliflower, peas, cucumber

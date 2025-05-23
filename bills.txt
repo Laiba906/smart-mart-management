@@ -1,0 +1,9 @@
+Bill 1: 100
+Bill 2: 0
+Bill 3: 0
+Bill 4: 0
+Bill 5: 0
+Bill 6: 90
+Bill 7: 0
+Bill 8: 100
+Bill 9: 0
